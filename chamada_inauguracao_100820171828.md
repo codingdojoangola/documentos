@@ -1,3 +1,1 @@
-No dia 19/08 será inaugurado o Coding Dojo Angola, na Vila Alice, onde praticantes de desenvolvimento de software de Angola poderão se reunir
-para aprender e ensinar programação, para procurar informações sobre vagas de empregos de TI e para que empresas angolanas possam selecionar
-nov@s funcionári@s. O espaço funcionará todos os sábados, no Launchpad Angola, das 09h às 12h. Venha conhecer o nosso Dojo! Até breve! 
+No dia 19/08 será inaugurado o Coding Dojo Angola, na Vila Alice, onde praticantes de desenvolvimento de software de Angola poderão se reunir para aprender e ensinar programação, para procurar informações sobre vagas de empregos de TI e para que empresas angolanas possam selecionar nov@s funcionári@s. O espaço funcionará todos os sábados, no Launchpad Angola, das 09h às 12h. Venha conhecer o nosso Dojo! Até breve! 
